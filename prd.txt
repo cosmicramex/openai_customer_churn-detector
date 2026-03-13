@@ -1,0 +1,670 @@
+PRODUCT REQUIREMENTS DOCUMENT (PRD)
+
+Project Title:
+NLP-Based Customer Churn Prediction and Visualization System
+
+Project Type:
+Natural Language Processing + Machine Learning Academic Project
+
+Purpose:
+To automatically detect potential customer churn from customer feedback text and generate analytical visual reports using graphs and charts.
+
+---------------------------------------------------------------------
+
+1. PROJECT OVERVIEW
+
+Customer churn refers to customers stopping the use of a product or service. For many businesses, identifying customers who are likely to leave is critical for improving retention and revenue.
+
+Customers often express dissatisfaction in the form of written feedback such as reviews, complaints, emails, or support tickets before they actually leave.
+
+However, companies may receive thousands of such messages daily, making manual analysis impractical.
+
+This project proposes an automated system that:
+
+• Analyzes customer feedback using Natural Language Processing (NLP)
+• Predicts whether a customer is likely to churn
+• Generates analytical reports with graphs and charts
+• Helps visualize churn trends and model performance
+
+The system will process customer feedback text, extract features using NLP techniques, train machine learning models, make churn predictions, and generate visual reports using Matplotlib.
+
+---------------------------------------------------------------------
+
+2. PROBLEM STATEMENT
+
+Businesses collect large amounts of unstructured customer feedback from multiple sources:
+
+• Product reviews
+• Customer support tickets
+• Emails
+• Complaint forms
+• Chat transcripts
+• Social media comments
+
+Within this feedback, there are signals indicating dissatisfaction or churn intent.
+
+Examples:
+
+"I am unhappy with the service and planning to cancel."
+
+"The support team is terrible."
+
+"The product is too expensive and slow."
+
+When companies receive thousands of such messages, manually analyzing them becomes difficult and inefficient.
+
+An automated system is needed to:
+
+• Process large volumes of text data
+• Detect dissatisfaction patterns
+• Predict churn probability
+• Provide visual analytics for business insights
+
+---------------------------------------------------------------------
+
+3. PROJECT OBJECTIVES
+
+The objectives of the project are:
+
+1. Build a text processing pipeline for customer feedback.
+2. Apply Natural Language Processing techniques for linguistic analysis.
+3. Convert textual feedback into numerical features.
+4. Train machine learning models for churn prediction.
+5. Evaluate model performance using standard metrics.
+6. Generate graphical visualizations of results using Matplotlib.
+7. Provide an automated churn prediction system.
+
+---------------------------------------------------------------------
+
+4. PROJECT SCOPE
+
+IN SCOPE
+
+The system will include:
+
+• Customer feedback dataset
+• Text preprocessing pipeline
+• Tokenization
+• Stop word removal
+• Lemmatization
+• N-gram feature extraction
+• TF-IDF vectorization
+• POS tagging
+• Named Entity Recognition
+• Machine learning model training
+• Churn prediction system
+• Graphical report generation
+
+OUT OF SCOPE
+
+• Deep learning models (Transformers, BERT)
+• Real-time cloud deployment
+• Large-scale enterprise systems
+
+---------------------------------------------------------------------
+
+5. TARGET USERS
+
+Primary Users
+
+• Students learning NLP and Machine Learning
+• Researchers analyzing customer feedback
+• Business analysts interested in churn detection
+
+Secondary Users
+
+• Customer support teams
+• Marketing teams
+
+---------------------------------------------------------------------
+
+6. SYSTEM ARCHITECTURE
+
+High Level System Flow
+
+Customer Feedback Dataset
+        |
+        v
+Text Preprocessing
+        |
+        v
+Feature Extraction
+        |
+        v
+Machine Learning Model Training
+        |
+        v
+Churn Prediction
+        |
+        v
+Evaluation Metrics
+        |
+        v
+Graphical Visualization Report
+
+---------------------------------------------------------------------
+
+7. DATA REQUIREMENTS
+
+Dataset Format
+
+The dataset must contain two columns:
+
+feedback
+churn
+
+Example Dataset
+
+feedback,churn
+"service is too slow and expensive",1
+"very happy with support",0
+"thinking of cancelling subscription",1
+"excellent product and service",0
+
+Label Meaning
+
+1 = Customer churn
+0 = Customer retained
+
+Recommended Dataset Size
+
+Minimum: 500 records
+Preferred: 1000 – 5000 records
+
+Possible Dataset Sources
+
+• Kaggle telecom churn datasets
+• Customer review datasets
+• Synthetic datasets
+
+---------------------------------------------------------------------
+
+8. SYSTEM MODULES
+
+---------------------------------------------------------------------
+
+8.1 DATA LOADING MODULE
+
+Responsibilities
+
+• Load dataset from CSV
+• Validate data structure
+• Handle missing values
+
+Input
+
+customer_churn_dataset.csv
+
+Output
+
+Structured dataframe ready for processing
+
+---------------------------------------------------------------------
+
+8.2 TEXT PREPROCESSING MODULE
+
+This module prepares raw text for analysis.
+
+Processing Steps
+
+1. Convert text to lowercase
+
+Example
+
+"Service Is Slow"
+
+becomes
+
+"service is slow"
+
+2. Remove punctuation
+
+Example
+
+"service is slow!!!"
+
+becomes
+
+"service is slow"
+
+3. Remove numbers and special characters
+
+Example
+
+"service is slow 123!!!"
+
+becomes
+
+"service is slow"
+
+4. Remove extra spaces
+
+Example
+
+"service   is   slow"
+
+becomes
+
+"service is slow"
+
+---------------------------------------------------------------------
+
+8.3 TOKENIZATION
+
+Tokenization splits text into individual words.
+
+Example
+
+Input
+
+"service is too slow"
+
+Output
+
+["service","is","too","slow"]
+
+---------------------------------------------------------------------
+
+8.4 STOP WORD REMOVAL
+
+Stop words include:
+
+is
+the
+and
+to
+with
+am
+
+Example
+
+Input
+
+"service is too slow"
+
+After stop word removal
+
+["service","slow"]
+
+---------------------------------------------------------------------
+
+8.5 LEMMATIZATION
+
+Lemmatization converts words to their base form.
+
+Examples
+
+running -> run
+cancelled -> cancel
+services -> service
+
+Example
+
+Input
+
+"customers cancelling services"
+
+Output
+
+["customer","cancel","service"]
+
+---------------------------------------------------------------------
+
+9. FEATURE EXTRACTION
+
+Machines cannot process raw text directly.
+
+Text must be converted to numerical vectors.
+
+---------------------------------------------------------------------
+
+9.1 N-GRAM FEATURES
+
+N-grams capture word combinations.
+
+Example sentence
+
+"customer support is bad"
+
+Unigrams
+
+customer
+support
+bad
+
+Bigrams
+
+customer support
+support bad
+
+Important churn phrases
+
+cancel subscription
+poor support
+bad service
+
+---------------------------------------------------------------------
+
+9.2 TF-IDF VECTORIZATION
+
+TF-IDF converts text into numerical vectors based on word importance.
+
+Example vector
+
+[0.32, 0.01, 0.44, 0.00, 0.12]
+
+Each value represents importance of a word.
+
+---------------------------------------------------------------------
+
+10. MACHINE LEARNING MODELS
+
+Three models will be trained and compared.
+
+Model 1
+
+Naive Bayes
+
+Advantages
+
+• Fast
+• Good for text classification
+
+Model 2
+
+Logistic Regression
+
+Advantages
+
+• Simple
+• Interpretable
+• Often performs well on NLP tasks
+
+Model 3
+
+Random Forest
+
+Advantages
+
+• Handles complex patterns
+• More robust
+
+---------------------------------------------------------------------
+
+11. TRAINING PROCESS
+
+Step 1
+
+Split dataset
+
+80% Training Data
+20% Testing Data
+
+Step 2
+
+Train models on training dataset.
+
+Step 3
+
+Evaluate models on testing dataset.
+
+---------------------------------------------------------------------
+
+12. MODEL EVALUATION METRICS
+
+Accuracy
+
+Percentage of correct predictions.
+
+Precision
+
+Proportion of predicted churn cases that are correct.
+
+Recall
+
+Proportion of actual churn cases detected.
+
+F1 Score
+
+Balance between precision and recall.
+
+Example
+
+Accuracy = 0.85
+Precision = 0.83
+Recall = 0.80
+F1 Score = 0.81
+
+---------------------------------------------------------------------
+
+13. PREDICTION SYSTEM
+
+Input
+
+Customer feedback text
+
+Example
+
+"I am unhappy with customer support and will cancel soon."
+
+Processing
+
+Text cleaning
+Tokenization
+Stop word removal
+Lemmatization
+TF-IDF vectorization
+Model prediction
+
+Output
+
+Churn Probability = 0.91
+Prediction = Churn
+
+---------------------------------------------------------------------
+
+14. VISUAL REPORT GENERATION
+
+The system will generate analytical visualizations using Matplotlib.
+
+Graphs will help interpret model results and dataset distribution.
+
+---------------------------------------------------------------------
+
+GRAPH 1 — CUSTOMER CHURN DISTRIBUTION
+
+Purpose
+
+Show proportion of churn vs retained customers.
+
+Graph Type
+
+Pie Chart
+
+Example
+
+Churned Customers: 35%
+Retained Customers: 65%
+
+Visualization
+
+Pie chart showing churn vs retained distribution.
+
+---------------------------------------------------------------------
+
+GRAPH 2 — MODEL ACCURACY COMPARISON
+
+Purpose
+
+Compare performance of different models.
+
+Graph Type
+
+Bar Chart
+
+Example
+
+Naive Bayes         82%
+Logistic Regression 86%
+Random Forest       88%
+
+Visualization
+
+Bar chart comparing model accuracies.
+
+---------------------------------------------------------------------
+
+GRAPH 3 — CONFUSION MATRIX
+
+Purpose
+
+Show prediction errors and correct predictions.
+
+Graph Type
+
+Heatmap
+
+Example Matrix
+
+                Predicted
+               Yes    No
+
+Actual Yes     120    30
+Actual No      20     230
+
+Visualization
+
+Color-coded heatmap.
+
+---------------------------------------------------------------------
+
+GRAPH 4 — PREDICTION DISTRIBUTION
+
+Purpose
+
+Show number of predicted churn vs non-churn customers.
+
+Graph Type
+
+Bar Chart
+
+Example
+
+Predicted Churn: 320
+Predicted Retained: 680
+
+---------------------------------------------------------------------
+
+GRAPH 5 — MOST IMPORTANT CHURN WORDS
+
+Purpose
+
+Show frequently occurring churn-related words.
+
+Graph Type
+
+Bar Chart
+
+Example words
+
+cancel
+refund
+slow
+expensive
+support
+
+---------------------------------------------------------------------
+
+15. TECHNOLOGY STACK
+
+Programming Language
+
+Python
+
+Libraries
+
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+matplotlib
+seaborn
+
+Development Environment
+
+Jupyter Notebook
+VS Code
+
+---------------------------------------------------------------------
+
+16. PROJECT FILE STRUCTURE
+
+project_folder
+
+dataset
+customer_churn_dataset.csv
+
+src
+data_loader.py
+preprocessing.py
+feature_extraction.py
+model_training.py
+prediction.py
+visualization.py
+
+notebooks
+analysis.ipynb
+
+results
+accuracy_comparison.png
+churn_distribution_pie.png
+confusion_matrix.png
+prediction_distribution.png
+important_words_chart.png
+
+reports
+project_report.pdf
+presentation.ppt
+
+---------------------------------------------------------------------
+
+17. PROJECT TIMELINE
+
+Week 1
+
+Dataset collection
+Text preprocessing implementation
+
+Week 2
+
+Feature extraction
+N-gram implementation
+POS tagging
+
+Week 3
+
+Model training
+Model evaluation
+
+Week 4
+
+Visualization generation
+Documentation
+Presentation preparation
+
+---------------------------------------------------------------------
+
+18. SUCCESS CRITERIA
+
+The project will be successful if:
+
+• NLP preprocessing pipeline works correctly
+• Machine learning models are trained successfully
+• Churn predictions are generated accurately
+• Graphical reports clearly visualize results
+• The system demonstrates real-world application of NLP techniques
+
+---------------------------------------------------------------------
+
+END OF DOCUMENT

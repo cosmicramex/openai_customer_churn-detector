@@ -1,0 +1,1051 @@
+Review_ID,Sentiment,Rating,Review_Text
+1,Positive,5,The new GPT-5.2 'Thinking' mode is insane for coding. It actually catches logic errors before I run the script.
+2,Negative,1,I can't believe they sunsetted 4o. The 5.2 model is way too clinical and lost all the creative spark for my creative writing.
+3,Positive,5,ChatGPT Go is exactly what I needed. $20 was too much but the new lower tier gives me the power I need for daily tasks.
+4,Negative,2,The recent news about the Department of War partnership is a dealbreaker for me. Privacy feels like a joke now.
+5,Positive,4,The Memory feature finally works across all my devices. It remembered my brand voice from a chat three months ago!
+6,Negative,1,"Constant 'Internal Server Error' today. For a Pro subscriber paying $200 a month, this uptime is pathetic."
+7,Positive,5,Voice mode in 2026 feels like talking to a real human. The latency is basically zero now.
+8,Negative,2,It's hallucinating citations again. I asked for academic sources and it gave me three books that don't exist.
+9,Positive,5,Prism is the best research workspace I've ever used. Having the drafting and sourcing in one view is a life saver.
+10,Negative,1,The ads for free users are so intrusive. I was trying to solve a math problem and got a pop-up for a calculator app.
+11,Positive,5,The deep research mode is a beast. It spent 5 minutes 'thinking' and produced a 10-page report that was 90% accurate.
+12,Negative,3,It’s getting way too censored. I can’t even write a fictional thriller without it lecturing me on safety guidelines.
+13,Positive,4,I love the new 'Task' scheduling. It sends me a summary of my project notes every Sunday night automatically.
+14,Negative,2,"The mobile app still lags when the chat history gets too long. It’s 2026, fix the optimization already."
+15,Positive,5,Using the Realtime API to build my own customer bot was surprisingly easy. The documentation is top-notch.
+16,Negative,1,It forgot my project instructions halfway through the session. The 'Long-term Memory' is clearly not that long.
+17,Positive,5,GPT-5.2 Instant is so much faster than the old Turbo models. It’s basically instantaneous for email drafts.
+18,Negative,2,The 'Thinking' toggle is just a way to charge us more for speed. Standard mode feels intentionally throttled now.
+19,Positive,4,The integration with my Google Drive is finally seamless. No more manual copy-pasting of my spreadsheets.
+20,Negative,1,Uninstalled after the military deal news. Switching to Claude where they actually care about AI ethics.
+21,Positive,5,The vision capabilities are incredible. I pointed my camera at my broken dishwasher and it gave me a step-by-step fix.
+22,Negative,2,"It’s becoming a bit of a 'Yes Man.' It doesn’t challenge my bad ideas anymore, just agrees with whatever I prompt."
+23,Positive,5,"As a student, the age-appropriate safety filters give my parents peace of mind while I use it for homework."
+24,Negative,1,I hate the new UI layout. Why is the chat history hidden behind three menus now? Stop overcomplicating things.
+25,Positive,4,The translation quality for slang and idioms has improved significantly. Much better than Google Translate.
+26,Negative,2,It’s too wordy. I ask for a 'yes' or 'no' and get four paragraphs of 'As an AI language model...'
+27,Positive,5,The Canvas feature for co-authoring is brilliant. It’s like Google Docs but with a genius sitting next to you.
+28,Negative,3,"The price for the Pro tier is astronomical. $200/month is only for corporations, leaving power users in the dust."
+29,Positive,5,The 'Connectors' feature allowed it to read my GitHub repo and explain the legacy code in minutes. Saved me weeks.
+30,Negative,1,"It’s weirdly biased lately. Depending on how I phrase a political question, the tone shifts dramatically."
+31,Positive,4,The new 'Lockdown Mode' for privacy is a great addition for when I'm working on sensitive client data.
+32,Negative,2,The voice sounds too robotic again after the last update. They took a step backward on the emotional prosody.
+33,Positive,5,I use it for meal planning every week. It takes my grocery list and generates 7 days of recipes in seconds.
+34,Negative,1,Failed my coding interview because it gave me an O(n^2) solution when I specifically asked for O(log n).
+35,Positive,5,The SVG generation is finally working. I can ask for a logo and get a scalable file I can actually use.
+36,Negative,2,"Still no true offline mode. If my internet drops for a second, the whole generation process fails and I lose the text."
+37,Positive,4,The 'Explore' page for custom GPTs is much better organized now. Found a great legal assistant tool in seconds.
+38,Negative,1,OpenAI's communication is terrible. They make major model changes overnight without notifying the developers.
+39,Positive,5,The sentiment analysis tool for my business reviews has helped us identify exactly why customers are churnning.
+40,Negative,3,It’s too 'eager to please.' It will agree with a factually incorrect statement just because I suggested it.
+41,Positive,5,The 'Prism' environment is a game changer for my PhD thesis. The citation management is actually reliable now.
+42,Negative,1,I’m paying for Plus and still getting 'at capacity' messages. What is the point of the subscription?
+43,Positive,4,The new math engine is much better at calculus. It finally explains the 'why' behind the steps properly.
+44,Negative,2,The 'Safety' flags are triggered by the most mundane things. I can't even write about a doctor's visit.
+45,Positive,5,The dark mode is finally a true 'OLED' black. My eyes thank the developers for this small but vital update.
+46,Negative,1,It’s clearly being trained on its own output now. The quality of prose is getting more generic every month.
+47,Positive,5,The multi-modal search is great. It can search the web and my private PDFs at the same time for one answer.
+48,Negative,2,The UI feels cluttered with too many 'upsell' buttons for the Pro and Enterprise tiers.
+49,Positive,5,The real-time translation during my Zoom calls has opened up so many international business opportunities.
+50,Negative,1,It lacks 'soul.' The 2026 models feel more like an encyclopedia and less like a creative partner.
+51,Positive,5,UI layout works flawlessly. I use it every day for debug scripts.
+52,Negative,2,Too many bugs in API integration. It failed when I tried to debug scripts.
+53,Negative,3,I'm disappointed with canvas. It makes study for exams frustrating.
+54,Negative,1,Too many bugs in documentation. It failed when I tried to debug scripts.
+55,Positive,5,I'm really impressed with translation. It makes study for exams much easier.
+56,Negative,3,Too many bugs in UI layout. It failed when I tried to plan projects.
+57,Positive,4,memory works flawlessly. I use it every day for organize notes.
+58,Positive,5,Using translation saved me a lot of time when prepare a report.
+59,Positive,5,Using canvas saved me a lot of time when analyze data.
+60,Positive,5,Using voice mode saved me a lot of time when debug scripts.
+61,Positive,5,mobile app works flawlessly. I use it every day for study for exams.
+62,Negative,2,The latest update broke file upload and now write code is difficult.
+63,Positive,4,mobile app works flawlessly. I use it every day for debug scripts.
+64,Positive,5,The improvements in search are noticeable and very helpful for plan projects.
+65,Positive,5,I'm really impressed with vision tool. It makes prepare a report much easier.
+66,Positive,5,mobile app works flawlessly. I use it every day for translate conversations.
+67,Negative,2,I'm disappointed with vision tool. It makes prepare a report frustrating.
+68,Negative,1,canvas feels unfinished. I expected better when trying to analyze data.
+69,Positive,5,The translation feature is fantastic. It helped me write better code.
+70,Negative,2,I'm disappointed with API integration. It makes plan projects frustrating.
+71,Negative,1,I'm disappointed with documentation. It makes study for exams frustrating.
+72,Negative,1,Too many bugs in API integration. It failed when I tried to plan projects.
+73,Negative,2,Too many bugs in vision tool. It failed when I tried to debug scripts.
+74,Positive,4,I'm really impressed with task scheduling. It makes translate conversations much easier.
+75,Positive,4,Using voice mode saved me a lot of time when finish my homework.
+76,Negative,1,The latest update broke task scheduling and now study for exams is difficult.
+77,Negative,1,mobile app still has issues. I couldn't properly organize notes.
+78,Negative,2,search feels unfinished. I expected better when trying to organize notes.
+79,Negative,1,voice mode still has issues. I couldn't properly analyze data.
+80,Negative,1,Too many bugs in search. It failed when I tried to debug scripts.
+81,Positive,5,Using connectors saved me a lot of time when plan projects.
+82,Positive,4,I'm really impressed with canvas. It makes draft emails much easier.
+83,Positive,4,The improvements in real‑time responses are noticeable and very helpful for plan projects.
+84,Positive,4,Using UI layout saved me a lot of time when draft emails.
+85,Positive,4,The UI layout feature is fantastic. It helped me debug issues quickly.
+86,Positive,4,The improvements in API integration are noticeable and very helpful for plan projects.
+87,Positive,5,The improvements in search are noticeable and very helpful for write code.
+88,Negative,2,I'm disappointed with real‑time responses. It makes draft emails frustrating.
+89,Positive,5,Using dark mode saved me a lot of time when translate conversations.
+90,Negative,3,I'm disappointed with thinking mode. It makes draft emails frustrating.
+91,Negative,2,I'm disappointed with connectors. It makes debug scripts frustrating.
+92,Positive,5,canvas works flawlessly. I use it every day for translate conversations.
+93,Positive,5,translation works flawlessly. I use it every day for debug scripts.
+94,Positive,5,Using mobile app saved me a lot of time when finish my homework.
+95,Negative,3,API integration feels unfinished. I expected better when trying to finish my homework.
+96,Positive,4,The connectors feature is fantastic. It helped me organize my work efficiently.
+97,Negative,1,translation feels unfinished. I expected better when trying to finish my homework.
+98,Positive,4,I'm really impressed with search. It makes organize notes much easier.
+99,Positive,4,I'm really impressed with memory. It makes draft emails much easier.
+100,Positive,5,I'm really impressed with real‑time responses. It makes plan projects much easier.
+101,Positive,5,voice mode works flawlessly. I use it every day for translate conversations.
+102,Positive,4,connectors works flawlessly. I use it every day for debug scripts.
+103,Positive,5,code assistant works flawlessly. I use it every day for organize notes.
+104,Positive,4,I'm really impressed with UI layout. It makes study for exams much easier.
+105,Negative,2,dark mode still has issues. I couldn't properly plan projects.
+106,Positive,4,The thinking mode feature is fantastic. It helped me debug issues quickly.
+107,Negative,3,documentation still has issues. I couldn't properly finish my homework.
+108,Negative,3,Too many bugs in translation. It failed when I tried to plan projects.
+109,Negative,2,translation still has issues. I couldn't properly finish my homework.
+110,Positive,4,vision tool works flawlessly. I use it every day for draft emails.
+111,Positive,4,The improvements in translation are noticeable and very helpful for finish my homework.
+112,Positive,5,code assistant works flawlessly. I use it every day for organize notes.
+113,Negative,1,Too many bugs in search. It failed when I tried to plan projects.
+114,Positive,4,I'm really impressed with thinking mode. It makes debug scripts much easier.
+115,Positive,4,The improvements in documentation are noticeable and very helpful for study for exams.
+116,Positive,5,Using vision tool saved me a lot of time when write code.
+117,Positive,5,I'm really impressed with translation. It makes translate conversations much easier.
+118,Positive,4,I'm really impressed with voice mode. It makes translate conversations much easier.
+119,Negative,3,I'm disappointed with thinking mode. It makes write code frustrating.
+120,Positive,5,Using documentation saved me a lot of time when analyze data.
+121,Positive,4,The documentation feature is fantastic. It helped me finish tasks faster.
+122,Negative,2,The latest update broke real‑time responses and now finish my homework is difficult.
+123,Positive,5,canvas works flawlessly. I use it every day for finish my homework.
+124,Positive,4,The translation feature is fantastic. It helped me finish tasks faster.
+125,Positive,5,I'm really impressed with memory. It makes translate conversations much easier.
+126,Positive,5,The improvements in voice mode are noticeable and very helpful for plan projects.
+127,Negative,1,Too many bugs in file upload. It failed when I tried to organize notes.
+128,Positive,5,Using memory saved me a lot of time when prepare a report.
+129,Positive,5,Using API integration saved me a lot of time when write code.
+130,Negative,3,canvas still has issues. I couldn't properly translate conversations.
+131,Negative,3,connectors feels unfinished. I expected better when trying to prepare a report.
+132,Positive,5,The improvements in file upload are noticeable and very helpful for draft emails.
+133,Negative,1,thinking mode still has issues. I couldn't properly plan projects.
+134,Negative,2,Too many bugs in translation. It failed when I tried to draft emails.
+135,Positive,4,The file upload feature is fantastic. It helped me debug issues quickly.
+136,Negative,1,I'm disappointed with task scheduling. It makes debug scripts frustrating.
+137,Negative,1,I'm disappointed with connectors. It makes write code frustrating.
+138,Negative,3,Too many bugs in memory. It failed when I tried to organize notes.
+139,Positive,4,dark mode works flawlessly. I use it every day for study for exams.
+140,Negative,3,Too many bugs in file upload. It failed when I tried to study for exams.
+141,Positive,4,I'm really impressed with real‑time responses. It makes prepare a report much easier.
+142,Positive,4,search works flawlessly. I use it every day for prepare a report.
+143,Positive,5,Using voice mode saved me a lot of time when study for exams.
+144,Negative,1,I'm disappointed with thinking mode. It makes organize notes frustrating.
+145,Positive,4,I'm really impressed with documentation. It makes finish my homework much easier.
+146,Negative,3,I'm disappointed with memory. It makes debug scripts frustrating.
+147,Negative,2,The latest update broke mobile app and now organize notes is difficult.
+148,Positive,4,The improvements in translation are noticeable and very helpful for write code.
+149,Negative,3,Too many bugs in dark mode. It failed when I tried to write code.
+150,Positive,5,The improvements in connectors are noticeable and very helpful for analyze data.
+151,Positive,5,connectors works flawlessly. I use it every day for draft emails.
+152,Positive,5,I'm really impressed with connectors. It makes organize notes much easier.
+153,Negative,1,Too many bugs in memory. It failed when I tried to translate conversations.
+154,Positive,5,Using API integration saved me a lot of time when plan projects.
+155,Negative,1,Too many bugs in documentation. It failed when I tried to finish my homework.
+156,Negative,3,I'm disappointed with code assistant. It makes study for exams frustrating.
+157,Positive,5,task scheduling works flawlessly. I use it every day for organize notes.
+158,Negative,3,task scheduling feels unfinished. I expected better when trying to analyze data.
+159,Negative,3,API integration feels unfinished. I expected better when trying to translate conversations.
+160,Positive,4,Using translation saved me a lot of time when prepare a report.
+161,Positive,5,UI layout works flawlessly. I use it every day for analyze data.
+162,Negative,2,code assistant still has issues. I couldn't properly translate conversations.
+163,Negative,2,translation feels unfinished. I expected better when trying to prepare a report.
+164,Negative,1,vision tool feels unfinished. I expected better when trying to debug scripts.
+165,Negative,1,connectors still has issues. I couldn't properly organize notes.
+166,Positive,5,I'm really impressed with mobile app. It makes prepare a report much easier.
+167,Positive,4,Using file upload saved me a lot of time when write code.
+168,Negative,2,Too many bugs in thinking mode. It failed when I tried to debug scripts.
+169,Positive,4,The canvas feature is fantastic. It helped me finish tasks faster.
+170,Positive,5,The improvements in API integration are noticeable and very helpful for study for exams.
+171,Positive,5,I'm really impressed with voice mode. It makes analyze data much easier.
+172,Negative,1,I'm disappointed with UI layout. It makes debug scripts frustrating.
+173,Positive,4,The dark mode feature is fantastic. It helped me learn new concepts.
+174,Negative,1,API integration still has issues. I couldn't properly analyze data.
+175,Negative,1,search feels unfinished. I expected better when trying to finish my homework.
+176,Positive,5,The improvements in search are noticeable and very helpful for write code.
+177,Negative,1,code assistant still has issues. I couldn't properly analyze data.
+178,Positive,4,The task scheduling feature is fantastic. It helped me finish tasks faster.
+179,Negative,3,voice mode feels unfinished. I expected better when trying to organize notes.
+180,Negative,3,I'm disappointed with documentation. It makes debug scripts frustrating.
+181,Negative,1,The latest update broke code assistant and now analyze data is difficult.
+182,Negative,3,dark mode feels unfinished. I expected better when trying to plan projects.
+183,Negative,1,dark mode still has issues. I couldn't properly debug scripts.
+184,Positive,5,The code assistant feature is fantastic. It helped me understand complex topics.
+185,Negative,3,The latest update broke thinking mode and now prepare a report is difficult.
+186,Positive,5,The mobile app feature is fantastic. It helped me understand complex topics.
+187,Positive,4,The task scheduling feature is fantastic. It helped me write better code.
+188,Negative,2,UI layout still has issues. I couldn't properly write code.
+189,Negative,1,I'm disappointed with thinking mode. It makes write code frustrating.
+190,Positive,4,The search feature is fantastic. It helped me learn new concepts.
+191,Positive,4,I'm really impressed with memory. It makes finish my homework much easier.
+192,Negative,2,Too many bugs in thinking mode. It failed when I tried to write code.
+193,Negative,2,Too many bugs in thinking mode. It failed when I tried to prepare a report.
+194,Negative,3,I'm disappointed with file upload. It makes write code frustrating.
+195,Positive,4,Using canvas saved me a lot of time when plan projects.
+196,Negative,1,I'm disappointed with memory. It makes analyze data frustrating.
+197,Positive,4,The translation feature is fantastic. It helped me write better code.
+198,Positive,4,I'm really impressed with mobile app. It makes draft emails much easier.
+199,Negative,1,file upload still has issues. I couldn't properly debug scripts.
+200,Positive,4,The improvements in vision tool are noticeable and very helpful for organize notes.
+201,Negative,3,thinking mode still has issues. I couldn't properly study for exams.
+202,Positive,4,code assistant works flawlessly. I use it every day for write code.
+203,Positive,5,Using mobile app saved me a lot of time when translate conversations.
+204,Negative,1,UI layout still has issues. I couldn't properly finish my homework.
+205,Positive,5,deep research works flawlessly. I use it every day for debug scripts.
+206,Negative,1,I'm disappointed with UI layout. It makes plan projects frustrating.
+207,Positive,5,I'm really impressed with canvas. It makes analyze data much easier.
+208,Negative,3,Too many bugs in file upload. It failed when I tried to study for exams.
+209,Positive,4,The improvements in API integration are noticeable and very helpful for analyze data.
+210,Negative,1,I'm disappointed with real‑time responses. It makes analyze data frustrating.
+211,Positive,5,Using voice mode saved me a lot of time when finish my homework.
+212,Negative,2,dark mode feels unfinished. I expected better when trying to study for exams.
+213,Positive,5,The improvements in voice mode are noticeable and very helpful for study for exams.
+214,Positive,5,documentation works flawlessly. I use it every day for plan projects.
+215,Negative,3,Too many bugs in search. It failed when I tried to organize notes.
+216,Positive,4,I'm really impressed with documentation. It makes organize notes much easier.
+217,Positive,4,Using translation saved me a lot of time when draft emails.
+218,Positive,4,The voice mode feature is fantastic. It helped me finish tasks faster.
+219,Negative,3,I'm disappointed with file upload. It makes write code frustrating.
+220,Negative,1,Too many bugs in UI layout. It failed when I tried to organize notes.
+221,Negative,2,code assistant feels unfinished. I expected better when trying to draft emails.
+222,Negative,3,API integration feels unfinished. I expected better when trying to translate conversations.
+223,Positive,5,vision tool works flawlessly. I use it every day for translate conversations.
+224,Positive,5,The improvements in search are noticeable and very helpful for prepare a report.
+225,Positive,4,The file upload feature is fantastic. It helped me understand complex topics.
+226,Positive,4,The canvas feature is fantastic. It helped me organize my work efficiently.
+227,Positive,5,vision tool works flawlessly. I use it every day for plan projects.
+228,Negative,3,thinking mode still has issues. I couldn't properly translate conversations.
+229,Positive,4,Using documentation saved me a lot of time when prepare a report.
+230,Negative,3,The latest update broke code assistant and now debug scripts is difficult.
+231,Positive,5,translation works flawlessly. I use it every day for analyze data.
+232,Positive,5,The file upload feature is fantastic. It helped me learn new concepts.
+233,Positive,4,dark mode works flawlessly. I use it every day for debug scripts.
+234,Negative,2,file upload feels unfinished. I expected better when trying to debug scripts.
+235,Positive,5,code assistant works flawlessly. I use it every day for finish my homework.
+236,Positive,5,The improvements in thinking mode are noticeable and very helpful for debug scripts.
+237,Negative,1,The latest update broke code assistant and now prepare a report is difficult.
+238,Negative,1,mobile app still has issues. I couldn't properly translate conversations.
+239,Negative,3,dark mode still has issues. I couldn't properly organize notes.
+240,Negative,1,Too many bugs in documentation. It failed when I tried to translate conversations.
+241,Positive,5,The task scheduling feature is fantastic. It helped me understand complex topics.
+242,Negative,1,I'm disappointed with documentation. It makes translate conversations frustrating.
+243,Negative,1,translation still has issues. I couldn't properly debug scripts.
+244,Positive,4,I'm really impressed with vision tool. It makes prepare a report much easier.
+245,Negative,3,real‑time responses feels unfinished. I expected better when trying to plan projects.
+246,Negative,1,dark mode still has issues. I couldn't properly draft emails.
+247,Positive,4,The API integration feature is fantastic. It helped me finish tasks faster.
+248,Positive,4,The improvements in real‑time responses are noticeable and very helpful for plan projects.
+249,Negative,1,canvas feels unfinished. I expected better when trying to write code.
+250,Negative,3,I'm disappointed with translation. It makes finish my homework frustrating.
+251,Positive,5,I'm really impressed with dark mode. It makes prepare a report much easier.
+252,Positive,4,The improvements in documentation are noticeable and very helpful for prepare a report.
+253,Positive,5,The documentation feature is fantastic. It helped me organize my work efficiently.
+254,Negative,1,real‑time responses still has issues. I couldn't properly write code.
+255,Negative,3,Too many bugs in canvas. It failed when I tried to prepare a report.
+256,Negative,1,dark mode still has issues. I couldn't properly finish my homework.
+257,Negative,1,Too many bugs in memory. It failed when I tried to plan projects.
+258,Negative,1,canvas still has issues. I couldn't properly plan projects.
+259,Negative,3,translation still has issues. I couldn't properly study for exams.
+260,Negative,2,I'm disappointed with dark mode. It makes study for exams frustrating.
+261,Negative,3,The latest update broke UI layout and now study for exams is difficult.
+262,Positive,5,vision tool works flawlessly. I use it every day for draft emails.
+263,Positive,4,Using thinking mode saved me a lot of time when finish my homework.
+264,Positive,5,The deep research feature is fantastic. It helped me finish tasks faster.
+265,Negative,1,The latest update broke translation and now organize notes is difficult.
+266,Negative,1,connectors still has issues. I couldn't properly debug scripts.
+267,Negative,3,I'm disappointed with dark mode. It makes debug scripts frustrating.
+268,Positive,4,I'm really impressed with translation. It makes draft emails much easier.
+269,Negative,2,voice mode feels unfinished. I expected better when trying to plan projects.
+270,Negative,1,I'm disappointed with task scheduling. It makes debug scripts frustrating.
+271,Negative,1,The latest update broke canvas and now finish my homework is difficult.
+272,Negative,3,mobile app still has issues. I couldn't properly write code.
+273,Positive,4,The file upload feature is fantastic. It helped me understand complex topics.
+274,Positive,4,The task scheduling feature is fantastic. It helped me debug issues quickly.
+275,Negative,2,documentation still has issues. I couldn't properly plan projects.
+276,Positive,4,I'm really impressed with canvas. It makes finish my homework much easier.
+277,Positive,4,API integration works flawlessly. I use it every day for write code.
+278,Negative,2,dark mode still has issues. I couldn't properly write code.
+279,Positive,4,I'm really impressed with canvas. It makes translate conversations much easier.
+280,Positive,5,The code assistant feature is fantastic. It helped me finish tasks faster.
+281,Negative,1,real‑time responses still has issues. I couldn't properly prepare a report.
+282,Positive,5,The improvements in UI layout are noticeable and very helpful for finish my homework.
+283,Negative,1,I'm disappointed with deep research. It makes draft emails frustrating.
+284,Positive,5,Using vision tool saved me a lot of time when debug scripts.
+285,Positive,5,I'm really impressed with vision tool. It makes analyze data much easier.
+286,Negative,2,file upload feels unfinished. I expected better when trying to prepare a report.
+287,Negative,1,Too many bugs in API integration. It failed when I tried to translate conversations.
+288,Positive,5,The improvements in mobile app are noticeable and very helpful for finish my homework.
+289,Positive,4,The improvements in mobile app are noticeable and very helpful for debug scripts.
+290,Positive,5,I'm really impressed with real‑time responses. It makes plan projects much easier.
+291,Negative,1,I'm disappointed with memory. It makes plan projects frustrating.
+292,Positive,4,The improvements in search are noticeable and very helpful for finish my homework.
+293,Negative,2,I'm disappointed with deep research. It makes write code frustrating.
+294,Positive,5,The thinking mode feature is fantastic. It helped me write better code.
+295,Negative,3,Too many bugs in connectors. It failed when I tried to organize notes.
+296,Positive,5,The improvements in deep research are noticeable and very helpful for study for exams.
+297,Positive,4,The voice mode feature is fantastic. It helped me organize my work efficiently.
+298,Positive,5,search works flawlessly. I use it every day for study for exams.
+299,Negative,3,translation feels unfinished. I expected better when trying to finish my homework.
+300,Negative,1,Too many bugs in file upload. It failed when I tried to draft emails.
+301,Positive,4,The API integration feature is fantastic. It helped me write better code.
+302,Negative,2,Too many bugs in UI layout. It failed when I tried to debug scripts.
+303,Negative,2,I'm disappointed with memory. It makes write code frustrating.
+304,Positive,4,deep research works flawlessly. I use it every day for study for exams.
+305,Negative,2,I'm disappointed with search. It makes analyze data frustrating.
+306,Positive,5,translation works flawlessly. I use it every day for study for exams.
+307,Negative,2,Too many bugs in file upload. It failed when I tried to organize notes.
+308,Positive,4,file upload works flawlessly. I use it every day for draft emails.
+309,Positive,4,UI layout works flawlessly. I use it every day for write code.
+310,Positive,5,Using file upload saved me a lot of time when prepare a report.
+311,Negative,3,file upload still has issues. I couldn't properly prepare a report.
+312,Positive,4,I'm really impressed with memory. It makes translate conversations much easier.
+313,Positive,5,The mobile app feature is fantastic. It helped me understand complex topics.
+314,Positive,4,Using connectors saved me a lot of time when draft emails.
+315,Positive,4,I'm really impressed with dark mode. It makes write code much easier.
+316,Positive,4,The improvements in connectors are noticeable and very helpful for prepare a report.
+317,Positive,5,translation works flawlessly. I use it every day for plan projects.
+318,Positive,5,The improvements in deep research are noticeable and very helpful for translate conversations.
+319,Positive,4,Using code assistant saved me a lot of time when study for exams.
+320,Positive,4,Using canvas saved me a lot of time when draft emails.
+321,Negative,2,I'm disappointed with code assistant. It makes analyze data frustrating.
+322,Positive,5,The real‑time responses feature is fantastic. It helped me learn new concepts.
+323,Negative,1,Too many bugs in connectors. It failed when I tried to organize notes.
+324,Positive,4,I'm really impressed with task scheduling. It makes translate conversations much easier.
+325,Negative,1,file upload still has issues. I couldn't properly debug scripts.
+326,Positive,5,Using canvas saved me a lot of time when finish my homework.
+327,Positive,5,The improvements in dark mode are noticeable and very helpful for draft emails.
+328,Negative,1,Too many bugs in documentation. It failed when I tried to debug scripts.
+329,Positive,4,thinking mode works flawlessly. I use it every day for plan projects.
+330,Positive,4,The search feature is fantastic. It helped me organize my work efficiently.
+331,Negative,2,Too many bugs in dark mode. It failed when I tried to analyze data.
+332,Negative,1,The latest update broke task scheduling and now organize notes is difficult.
+333,Positive,5,Using search saved me a lot of time when prepare a report.
+334,Negative,1,search still has issues. I couldn't properly analyze data.
+335,Negative,2,The latest update broke connectors and now debug scripts is difficult.
+336,Negative,3,I'm disappointed with code assistant. It makes analyze data frustrating.
+337,Negative,1,canvas still has issues. I couldn't properly organize notes.
+338,Positive,5,I'm really impressed with real‑time responses. It makes study for exams much easier.
+339,Positive,5,The voice mode feature is fantastic. It helped me learn new concepts.
+340,Positive,4,The improvements in real‑time responses are noticeable and very helpful for organize notes.
+341,Negative,1,deep research still has issues. I couldn't properly analyze data.
+342,Negative,3,I'm disappointed with search. It makes analyze data frustrating.
+343,Positive,4,The dark mode feature is fantastic. It helped me understand complex topics.
+344,Negative,3,canvas feels unfinished. I expected better when trying to prepare a report.
+345,Negative,1,thinking mode still has issues. I couldn't properly prepare a report.
+346,Positive,5,I'm really impressed with mobile app. It makes finish my homework much easier.
+347,Negative,1,I'm disappointed with task scheduling. It makes organize notes frustrating.
+348,Negative,1,I'm disappointed with real‑time responses. It makes analyze data frustrating.
+349,Negative,3,I'm disappointed with canvas. It makes debug scripts frustrating.
+350,Negative,3,I'm disappointed with task scheduling. It makes debug scripts frustrating.
+351,Negative,1,Too many bugs in API integration. It failed when I tried to finish my homework.
+352,Positive,4,canvas works flawlessly. I use it every day for organize notes.
+353,Positive,5,voice mode works flawlessly. I use it every day for prepare a report.
+354,Positive,5,file upload works flawlessly. I use it every day for finish my homework.
+355,Positive,5,Using canvas saved me a lot of time when finish my homework.
+356,Negative,1,Too many bugs in code assistant. It failed when I tried to draft emails.
+357,Negative,1,The latest update broke connectors and now plan projects is difficult.
+358,Positive,5,The improvements in deep research are noticeable and very helpful for translate conversations.
+359,Positive,5,The improvements in documentation are noticeable and very helpful for prepare a report.
+360,Negative,2,I'm disappointed with memory. It makes analyze data frustrating.
+361,Positive,5,The improvements in documentation are noticeable and very helpful for organize notes.
+362,Positive,4,The voice mode feature is fantastic. It helped me finish tasks faster.
+363,Positive,4,voice mode works flawlessly. I use it every day for write code.
+364,Negative,3,I'm disappointed with task scheduling. It makes analyze data frustrating.
+365,Negative,1,search still has issues. I couldn't properly study for exams.
+366,Negative,1,vision tool still has issues. I couldn't properly organize notes.
+367,Positive,4,file upload works flawlessly. I use it every day for translate conversations.
+368,Negative,2,Too many bugs in translation. It failed when I tried to plan projects.
+369,Positive,5,The improvements in thinking mode are noticeable and very helpful for plan projects.
+370,Positive,5,I'm really impressed with connectors. It makes study for exams much easier.
+371,Negative,3,I'm disappointed with file upload. It makes debug scripts frustrating.
+372,Positive,5,I'm really impressed with thinking mode. It makes analyze data much easier.
+373,Negative,2,The latest update broke mobile app and now study for exams is difficult.
+374,Positive,5,The improvements in search are noticeable and very helpful for analyze data.
+375,Positive,4,mobile app works flawlessly. I use it every day for finish my homework.
+376,Negative,1,search still has issues. I couldn't properly translate conversations.
+377,Positive,4,I'm really impressed with vision tool. It makes analyze data much easier.
+378,Negative,2,voice mode feels unfinished. I expected better when trying to finish my homework.
+379,Negative,2,Too many bugs in dark mode. It failed when I tried to debug scripts.
+380,Positive,5,I'm really impressed with vision tool. It makes draft emails much easier.
+381,Positive,5,API integration works flawlessly. I use it every day for write code.
+382,Positive,4,The translation feature is fantastic. It helped me learn new concepts.
+383,Positive,4,The vision tool feature is fantastic. It helped me write better code.
+384,Negative,2,I'm disappointed with thinking mode. It makes finish my homework frustrating.
+385,Positive,4,Using vision tool saved me a lot of time when write code.
+386,Negative,1,I'm disappointed with file upload. It makes write code frustrating.
+387,Positive,4,I'm really impressed with deep research. It makes translate conversations much easier.
+388,Positive,5,Using task scheduling saved me a lot of time when draft emails.
+389,Positive,5,The improvements in mobile app are noticeable and very helpful for prepare a report.
+390,Negative,2,UI layout feels unfinished. I expected better when trying to finish my homework.
+391,Negative,3,I'm disappointed with deep research. It makes organize notes frustrating.
+392,Negative,3,The latest update broke dark mode and now debug scripts is difficult.
+393,Negative,1,I'm disappointed with task scheduling. It makes prepare a report frustrating.
+394,Negative,1,task scheduling still has issues. I couldn't properly analyze data.
+395,Negative,3,The latest update broke voice mode and now analyze data is difficult.
+396,Positive,4,The canvas feature is fantastic. It helped me understand complex topics.
+397,Positive,4,Using thinking mode saved me a lot of time when plan projects.
+398,Positive,4,I'm really impressed with memory. It makes debug scripts much easier.
+399,Negative,3,thinking mode still has issues. I couldn't properly study for exams.
+400,Positive,5,The improvements in search are noticeable and very helpful for plan projects.
+401,Negative,3,task scheduling feels unfinished. I expected better when trying to plan projects.
+402,Negative,3,memory still has issues. I couldn't properly translate conversations.
+403,Negative,1,Too many bugs in voice mode. It failed when I tried to organize notes.
+404,Positive,5,The improvements in documentation are noticeable and very helpful for translate conversations.
+405,Positive,4,Using thinking mode saved me a lot of time when write code.
+406,Positive,5,The improvements in API integration are noticeable and very helpful for analyze data.
+407,Positive,5,API integration works flawlessly. I use it every day for plan projects.
+408,Negative,3,connectors still has issues. I couldn't properly finish my homework.
+409,Positive,4,The real‑time responses feature is fantastic. It helped me debug issues quickly.
+410,Positive,5,Using code assistant saved me a lot of time when analyze data.
+411,Negative,3,The latest update broke deep research and now finish my homework is difficult.
+412,Negative,3,Too many bugs in vision tool. It failed when I tried to draft emails.
+413,Negative,1,deep research still has issues. I couldn't properly organize notes.
+414,Negative,2,I'm disappointed with thinking mode. It makes prepare a report frustrating.
+415,Negative,2,Too many bugs in connectors. It failed when I tried to plan projects.
+416,Negative,3,deep research feels unfinished. I expected better when trying to organize notes.
+417,Positive,5,The thinking mode feature is fantastic. It helped me organize my work efficiently.
+418,Positive,4,The improvements in mobile app are noticeable and very helpful for analyze data.
+419,Positive,4,The improvements in dark mode are noticeable and very helpful for translate conversations.
+420,Positive,4,Using voice mode saved me a lot of time when organize notes.
+421,Positive,4,Using memory saved me a lot of time when draft emails.
+422,Positive,5,vision tool works flawlessly. I use it every day for write code.
+423,Negative,2,connectors feels unfinished. I expected better when trying to finish my homework.
+424,Negative,1,memory still has issues. I couldn't properly prepare a report.
+425,Positive,4,Using UI layout saved me a lot of time when write code.
+426,Negative,3,canvas still has issues. I couldn't properly plan projects.
+427,Negative,1,The latest update broke mobile app and now organize notes is difficult.
+428,Positive,4,Using canvas saved me a lot of time when analyze data.
+429,Positive,5,I'm really impressed with translation. It makes study for exams much easier.
+430,Positive,5,Using canvas saved me a lot of time when prepare a report.
+431,Negative,3,translation still has issues. I couldn't properly study for exams.
+432,Positive,5,The search feature is fantastic. It helped me learn new concepts.
+433,Negative,3,I'm disappointed with connectors. It makes debug scripts frustrating.
+434,Negative,1,real‑time responses feels unfinished. I expected better when trying to analyze data.
+435,Negative,3,voice mode feels unfinished. I expected better when trying to finish my homework.
+436,Negative,3,thinking mode feels unfinished. I expected better when trying to finish my homework.
+437,Positive,5,The API integration feature is fantastic. It helped me write better code.
+438,Negative,3,real‑time responses feels unfinished. I expected better when trying to prepare a report.
+439,Positive,4,mobile app works flawlessly. I use it every day for plan projects.
+440,Negative,1,memory still has issues. I couldn't properly draft emails.
+441,Negative,3,I'm disappointed with documentation. It makes finish my homework frustrating.
+442,Positive,4,mobile app works flawlessly. I use it every day for plan projects.
+443,Negative,1,thinking mode still has issues. I couldn't properly plan projects.
+444,Negative,3,Too many bugs in voice mode. It failed when I tried to finish my homework.
+445,Negative,3,dark mode feels unfinished. I expected better when trying to translate conversations.
+446,Positive,4,The file upload feature is fantastic. It helped me learn new concepts.
+447,Positive,5,I'm really impressed with translation. It makes plan projects much easier.
+448,Positive,4,The connectors feature is fantastic. It helped me understand complex topics.
+449,Negative,2,connectors feels unfinished. I expected better when trying to organize notes.
+450,Negative,1,Too many bugs in memory. It failed when I tried to draft emails.
+451,Negative,1,I'm disappointed with deep research. It makes finish my homework frustrating.
+452,Negative,3,I'm disappointed with connectors. It makes debug scripts frustrating.
+453,Negative,2,connectors still has issues. I couldn't properly draft emails.
+454,Negative,1,Too many bugs in memory. It failed when I tried to study for exams.
+455,Negative,2,real‑time responses feels unfinished. I expected better when trying to translate conversations.
+456,Negative,3,I'm disappointed with search. It makes organize notes frustrating.
+457,Negative,1,The latest update broke file upload and now analyze data is difficult.
+458,Positive,5,I'm really impressed with connectors. It makes write code much easier.
+459,Positive,4,voice mode works flawlessly. I use it every day for organize notes.
+460,Negative,2,The latest update broke canvas and now debug scripts is difficult.
+461,Negative,2,I'm disappointed with connectors. It makes prepare a report frustrating.
+462,Positive,4,The improvements in code assistant are noticeable and very helpful for organize notes.
+463,Negative,3,I'm disappointed with thinking mode. It makes study for exams frustrating.
+464,Positive,4,Using thinking mode saved me a lot of time when study for exams.
+465,Positive,5,The translation feature is fantastic. It helped me understand complex topics.
+466,Positive,4,The memory feature is fantastic. It helped me finish tasks faster.
+467,Positive,4,Using search saved me a lot of time when study for exams.
+468,Negative,3,translation feels unfinished. I expected better when trying to analyze data.
+469,Positive,5,I'm really impressed with connectors. It makes plan projects much easier.
+470,Positive,4,The improvements in canvas are noticeable and very helpful for finish my homework.
+471,Positive,5,The translation feature is fantastic. It helped me write better code.
+472,Positive,4,The file upload feature is fantastic. It helped me organize my work efficiently.
+473,Negative,1,I'm disappointed with translation. It makes prepare a report frustrating.
+474,Negative,1,Too many bugs in vision tool. It failed when I tried to plan projects.
+475,Positive,5,The improvements in vision tool are noticeable and very helpful for finish my homework.
+476,Negative,3,The latest update broke documentation and now debug scripts is difficult.
+477,Positive,4,I'm really impressed with task scheduling. It makes prepare a report much easier.
+478,Negative,3,The latest update broke real‑time responses and now organize notes is difficult.
+479,Negative,3,mobile app still has issues. I couldn't properly draft emails.
+480,Positive,4,The task scheduling feature is fantastic. It helped me organize my work efficiently.
+481,Positive,4,The task scheduling feature is fantastic. It helped me understand complex topics.
+482,Negative,2,The latest update broke code assistant and now write code is difficult.
+483,Positive,4,I'm really impressed with dark mode. It makes analyze data much easier.
+484,Positive,5,Using connectors saved me a lot of time when organize notes.
+485,Positive,5,The memory feature is fantastic. It helped me learn new concepts.
+486,Positive,5,The UI layout feature is fantastic. It helped me debug issues quickly.
+487,Positive,5,vision tool works flawlessly. I use it every day for write code.
+488,Negative,2,I'm disappointed with voice mode. It makes prepare a report frustrating.
+489,Positive,5,The code assistant feature is fantastic. It helped me finish tasks faster.
+490,Negative,3,translation still has issues. I couldn't properly translate conversations.
+491,Positive,5,Using search saved me a lot of time when write code.
+492,Positive,4,The documentation feature is fantastic. It helped me debug issues quickly.
+493,Positive,4,I'm really impressed with deep research. It makes prepare a report much easier.
+494,Negative,2,I'm disappointed with connectors. It makes study for exams frustrating.
+495,Positive,4,The connectors feature is fantastic. It helped me debug issues quickly.
+496,Negative,2,task scheduling still has issues. I couldn't properly finish my homework.
+497,Positive,5,The connectors feature is fantastic. It helped me understand complex topics.
+498,Negative,3,UI layout feels unfinished. I expected better when trying to finish my homework.
+499,Negative,1,memory feels unfinished. I expected better when trying to study for exams.
+500,Positive,5,I'm really impressed with UI layout. It makes write code much easier.
+501,Negative,1,task scheduling still has issues. I couldn't properly prepare a report.
+502,Negative,2,The latest update broke thinking mode and now translate conversations is difficult.
+503,Negative,3,Too many bugs in translation. It failed when I tried to study for exams.
+504,Negative,2,canvas feels unfinished. I expected better when trying to finish my homework.
+505,Negative,2,The latest update broke API integration and now organize notes is difficult.
+506,Positive,5,The improvements in search are noticeable and very helpful for draft emails.
+507,Negative,3,The latest update broke real‑time responses and now finish my homework is difficult.
+508,Negative,3,I'm disappointed with code assistant. It makes organize notes frustrating.
+509,Negative,1,The latest update broke vision tool and now plan projects is difficult.
+510,Negative,3,The latest update broke mobile app and now translate conversations is difficult.
+511,Positive,5,dark mode works flawlessly. I use it every day for translate conversations.
+512,Negative,1,dark mode feels unfinished. I expected better when trying to study for exams.
+513,Positive,4,I'm really impressed with canvas. It makes analyze data much easier.
+514,Positive,4,dark mode works flawlessly. I use it every day for organize notes.
+515,Positive,5,The connectors feature is fantastic. It helped me finish tasks faster.
+516,Negative,1,The latest update broke mobile app and now study for exams is difficult.
+517,Negative,3,UI layout still has issues. I couldn't properly plan projects.
+518,Negative,3,I'm disappointed with translation. It makes plan projects frustrating.
+519,Negative,3,I'm disappointed with mobile app. It makes finish my homework frustrating.
+520,Negative,3,canvas still has issues. I couldn't properly draft emails.
+521,Negative,3,thinking mode still has issues. I couldn't properly debug scripts.
+522,Negative,2,The latest update broke UI layout and now plan projects is difficult.
+523,Negative,1,The latest update broke documentation and now debug scripts is difficult.
+524,Positive,4,The thinking mode feature is fantastic. It helped me write better code.
+525,Negative,3,task scheduling still has issues. I couldn't properly analyze data.
+526,Positive,5,Using thinking mode saved me a lot of time when plan projects.
+527,Negative,3,Too many bugs in dark mode. It failed when I tried to prepare a report.
+528,Negative,1,The latest update broke translation and now analyze data is difficult.
+529,Negative,2,Too many bugs in UI layout. It failed when I tried to analyze data.
+530,Positive,4,I'm really impressed with search. It makes debug scripts much easier.
+531,Positive,5,Using mobile app saved me a lot of time when translate conversations.
+532,Positive,4,The dark mode feature is fantastic. It helped me learn new concepts.
+533,Positive,4,The vision tool feature is fantastic. It helped me organize my work efficiently.
+534,Negative,2,I'm disappointed with API integration. It makes finish my homework frustrating.
+535,Positive,4,I'm really impressed with voice mode. It makes debug scripts much easier.
+536,Positive,4,Using file upload saved me a lot of time when prepare a report.
+537,Positive,4,canvas works flawlessly. I use it every day for analyze data.
+538,Positive,5,memory works flawlessly. I use it every day for study for exams.
+539,Negative,2,I'm disappointed with memory. It makes debug scripts frustrating.
+540,Positive,5,The voice mode feature is fantastic. It helped me organize my work efficiently.
+541,Positive,5,The deep research feature is fantastic. It helped me learn new concepts.
+542,Positive,5,code assistant works flawlessly. I use it every day for debug scripts.
+543,Negative,2,mobile app still has issues. I couldn't properly debug scripts.
+544,Positive,4,Using connectors saved me a lot of time when organize notes.
+545,Positive,5,The connectors feature is fantastic. It helped me organize my work efficiently.
+546,Negative,2,vision tool still has issues. I couldn't properly prepare a report.
+547,Negative,1,The latest update broke search and now prepare a report is difficult.
+548,Negative,1,Too many bugs in vision tool. It failed when I tried to plan projects.
+549,Positive,4,Using mobile app saved me a lot of time when finish my homework.
+550,Negative,1,The latest update broke canvas and now study for exams is difficult.
+551,Negative,1,The latest update broke memory and now debug scripts is difficult.
+552,Negative,1,Too many bugs in file upload. It failed when I tried to write code.
+553,Negative,2,Too many bugs in vision tool. It failed when I tried to plan projects.
+554,Positive,5,The improvements in file upload are noticeable and very helpful for draft emails.
+555,Negative,2,I'm disappointed with file upload. It makes study for exams frustrating.
+556,Positive,5,UI layout works flawlessly. I use it every day for write code.
+557,Positive,4,I'm really impressed with search. It makes organize notes much easier.
+558,Positive,5,API integration works flawlessly. I use it every day for translate conversations.
+559,Negative,2,canvas still has issues. I couldn't properly analyze data.
+560,Negative,3,I'm disappointed with code assistant. It makes analyze data frustrating.
+561,Positive,5,The API integration feature is fantastic. It helped me write better code.
+562,Negative,3,translation feels unfinished. I expected better when trying to translate conversations.
+563,Positive,5,Using connectors saved me a lot of time when prepare a report.
+564,Positive,4,Using thinking mode saved me a lot of time when prepare a report.
+565,Positive,5,Using code assistant saved me a lot of time when translate conversations.
+566,Negative,2,The latest update broke file upload and now write code is difficult.
+567,Positive,5,The improvements in connectors are noticeable and very helpful for organize notes.
+568,Negative,1,voice mode feels unfinished. I expected better when trying to organize notes.
+569,Positive,4,The improvements in API integration are noticeable and very helpful for write code.
+570,Positive,5,I'm really impressed with voice mode. It makes finish my homework much easier.
+571,Positive,5,The improvements in dark mode are noticeable and very helpful for translate conversations.
+572,Positive,4,The translation feature is fantastic. It helped me debug issues quickly.
+573,Negative,1,I'm disappointed with connectors. It makes organize notes frustrating.
+574,Positive,4,Using vision tool saved me a lot of time when organize notes.
+575,Positive,4,I'm really impressed with deep research. It makes translate conversations much easier.
+576,Positive,4,The deep research feature is fantastic. It helped me learn new concepts.
+577,Positive,5,The improvements in task scheduling are noticeable and very helpful for write code.
+578,Positive,4,The UI layout feature is fantastic. It helped me learn new concepts.
+579,Positive,4,I'm really impressed with search. It makes write code much easier.
+580,Negative,2,Too many bugs in real‑time responses. It failed when I tried to debug scripts.
+581,Positive,4,The memory feature is fantastic. It helped me finish tasks faster.
+582,Positive,5,Using mobile app saved me a lot of time when prepare a report.
+583,Negative,3,canvas feels unfinished. I expected better when trying to organize notes.
+584,Negative,3,I'm disappointed with search. It makes write code frustrating.
+585,Negative,3,I'm disappointed with thinking mode. It makes debug scripts frustrating.
+586,Negative,2,I'm disappointed with code assistant. It makes organize notes frustrating.
+587,Positive,5,Using mobile app saved me a lot of time when plan projects.
+588,Negative,2,Too many bugs in voice mode. It failed when I tried to translate conversations.
+589,Negative,1,translation feels unfinished. I expected better when trying to prepare a report.
+590,Negative,2,The latest update broke API integration and now organize notes is difficult.
+591,Negative,2,I'm disappointed with connectors. It makes finish my homework frustrating.
+592,Negative,1,Too many bugs in vision tool. It failed when I tried to translate conversations.
+593,Negative,1,The latest update broke vision tool and now finish my homework is difficult.
+594,Positive,5,translation works flawlessly. I use it every day for translate conversations.
+595,Negative,2,The latest update broke UI layout and now draft emails is difficult.
+596,Positive,4,Using vision tool saved me a lot of time when study for exams.
+597,Positive,5,I'm really impressed with real‑time responses. It makes analyze data much easier.
+598,Negative,1,thinking mode still has issues. I couldn't properly analyze data.
+599,Negative,1,I'm disappointed with documentation. It makes analyze data frustrating.
+600,Negative,1,Too many bugs in deep research. It failed when I tried to debug scripts.
+601,Positive,4,I'm really impressed with task scheduling. It makes prepare a report much easier.
+602,Negative,2,connectors feels unfinished. I expected better when trying to analyze data.
+603,Positive,4,The mobile app feature is fantastic. It helped me organize my work efficiently.
+604,Positive,5,The file upload feature is fantastic. It helped me debug issues quickly.
+605,Positive,5,I'm really impressed with memory. It makes prepare a report much easier.
+606,Negative,3,Too many bugs in documentation. It failed when I tried to debug scripts.
+607,Positive,5,The search feature is fantastic. It helped me write better code.
+608,Negative,2,task scheduling feels unfinished. I expected better when trying to plan projects.
+609,Positive,5,The improvements in memory are noticeable and very helpful for plan projects.
+610,Negative,2,vision tool feels unfinished. I expected better when trying to prepare a report.
+611,Negative,3,The latest update broke code assistant and now study for exams is difficult.
+612,Negative,3,I'm disappointed with deep research. It makes organize notes frustrating.
+613,Negative,3,I'm disappointed with memory. It makes write code frustrating.
+614,Negative,3,I'm disappointed with file upload. It makes prepare a report frustrating.
+615,Negative,2,mobile app feels unfinished. I expected better when trying to write code.
+616,Negative,1,The latest update broke translation and now debug scripts is difficult.
+617,Positive,5,Using code assistant saved me a lot of time when analyze data.
+618,Negative,3,Too many bugs in memory. It failed when I tried to translate conversations.
+619,Positive,5,The connectors feature is fantastic. It helped me understand complex topics.
+620,Positive,5,I'm really impressed with code assistant. It makes write code much easier.
+621,Negative,2,dark mode still has issues. I couldn't properly debug scripts.
+622,Positive,4,The improvements in connectors are noticeable and very helpful for finish my homework.
+623,Negative,2,The latest update broke real‑time responses and now finish my homework is difficult.
+624,Positive,4,Using translation saved me a lot of time when organize notes.
+625,Negative,3,voice mode still has issues. I couldn't properly finish my homework.
+626,Positive,4,API integration works flawlessly. I use it every day for debug scripts.
+627,Negative,1,The latest update broke search and now plan projects is difficult.
+628,Positive,4,The improvements in memory are noticeable and very helpful for finish my homework.
+629,Positive,4,file upload works flawlessly. I use it every day for analyze data.
+630,Negative,2,I'm disappointed with deep research. It makes debug scripts frustrating.
+631,Positive,4,dark mode works flawlessly. I use it every day for study for exams.
+632,Negative,1,dark mode still has issues. I couldn't properly finish my homework.
+633,Negative,2,The latest update broke deep research and now write code is difficult.
+634,Negative,1,I'm disappointed with memory. It makes write code frustrating.
+635,Positive,5,I'm really impressed with real‑time responses. It makes analyze data much easier.
+636,Positive,5,file upload works flawlessly. I use it every day for prepare a report.
+637,Negative,1,I'm disappointed with task scheduling. It makes write code frustrating.
+638,Negative,2,The latest update broke search and now debug scripts is difficult.
+639,Negative,1,The latest update broke voice mode and now draft emails is difficult.
+640,Negative,2,search feels unfinished. I expected better when trying to study for exams.
+641,Positive,5,The improvements in mobile app are noticeable and very helpful for analyze data.
+642,Negative,1,UI layout still has issues. I couldn't properly translate conversations.
+643,Negative,3,I'm disappointed with task scheduling. It makes study for exams frustrating.
+644,Negative,3,Too many bugs in code assistant. It failed when I tried to finish my homework.
+645,Negative,2,real‑time responses feels unfinished. I expected better when trying to plan projects.
+646,Positive,5,I'm really impressed with task scheduling. It makes draft emails much easier.
+647,Negative,3,I'm disappointed with UI layout. It makes debug scripts frustrating.
+648,Negative,2,I'm disappointed with voice mode. It makes prepare a report frustrating.
+649,Negative,1,canvas feels unfinished. I expected better when trying to organize notes.
+650,Negative,3,search feels unfinished. I expected better when trying to draft emails.
+651,Negative,1,The latest update broke voice mode and now draft emails is difficult.
+652,Positive,5,translation works flawlessly. I use it every day for prepare a report.
+653,Positive,5,The task scheduling feature is fantastic. It helped me write better code.
+654,Negative,3,connectors feels unfinished. I expected better when trying to finish my homework.
+655,Negative,2,API integration feels unfinished. I expected better when trying to organize notes.
+656,Negative,2,connectors feels unfinished. I expected better when trying to organize notes.
+657,Positive,4,deep research works flawlessly. I use it every day for translate conversations.
+658,Positive,5,The real‑time responses feature is fantastic. It helped me write better code.
+659,Negative,1,Too many bugs in memory. It failed when I tried to draft emails.
+660,Negative,1,I'm disappointed with voice mode. It makes translate conversations frustrating.
+661,Negative,1,I'm disappointed with memory. It makes prepare a report frustrating.
+662,Negative,3,I'm disappointed with mobile app. It makes finish my homework frustrating.
+663,Negative,1,dark mode feels unfinished. I expected better when trying to prepare a report.
+664,Positive,4,The improvements in thinking mode are noticeable and very helpful for write code.
+665,Negative,2,The latest update broke connectors and now plan projects is difficult.
+666,Positive,5,Using file upload saved me a lot of time when analyze data.
+667,Positive,4,Using API integration saved me a lot of time when write code.
+668,Negative,2,memory feels unfinished. I expected better when trying to debug scripts.
+669,Negative,2,canvas still has issues. I couldn't properly analyze data.
+670,Negative,3,I'm disappointed with voice mode. It makes plan projects frustrating.
+671,Negative,3,Too many bugs in mobile app. It failed when I tried to debug scripts.
+672,Positive,4,The translation feature is fantastic. It helped me write better code.
+673,Negative,2,mobile app still has issues. I couldn't properly plan projects.
+674,Negative,2,real‑time responses feels unfinished. I expected better when trying to plan projects.
+675,Negative,1,Too many bugs in file upload. It failed when I tried to draft emails.
+676,Negative,2,The latest update broke UI layout and now translate conversations is difficult.
+677,Negative,3,Too many bugs in deep research. It failed when I tried to translate conversations.
+678,Negative,3,search feels unfinished. I expected better when trying to translate conversations.
+679,Negative,1,I'm disappointed with UI layout. It makes debug scripts frustrating.
+680,Positive,4,I'm really impressed with thinking mode. It makes translate conversations much easier.
+681,Positive,4,canvas works flawlessly. I use it every day for plan projects.
+682,Negative,2,Too many bugs in API integration. It failed when I tried to study for exams.
+683,Positive,4,Using translation saved me a lot of time when plan projects.
+684,Negative,1,Too many bugs in code assistant. It failed when I tried to draft emails.
+685,Negative,2,thinking mode still has issues. I couldn't properly study for exams.
+686,Positive,4,I'm really impressed with file upload. It makes draft emails much easier.
+687,Negative,2,The latest update broke vision tool and now finish my homework is difficult.
+688,Positive,5,UI layout works flawlessly. I use it every day for plan projects.
+689,Negative,3,The latest update broke code assistant and now debug scripts is difficult.
+690,Negative,3,Too many bugs in dark mode. It failed when I tried to analyze data.
+691,Positive,4,The improvements in search are noticeable and very helpful for debug scripts.
+692,Positive,5,The memory feature is fantastic. It helped me write better code.
+693,Positive,5,I'm really impressed with task scheduling. It makes organize notes much easier.
+694,Positive,4,search works flawlessly. I use it every day for draft emails.
+695,Positive,5,I'm really impressed with canvas. It makes write code much easier.
+696,Negative,1,file upload still has issues. I couldn't properly debug scripts.
+697,Negative,2,The latest update broke mobile app and now analyze data is difficult.
+698,Negative,1,Too many bugs in deep research. It failed when I tried to finish my homework.
+699,Positive,4,Using vision tool saved me a lot of time when plan projects.
+700,Positive,5,Using voice mode saved me a lot of time when organize notes.
+701,Positive,5,vision tool works flawlessly. I use it every day for prepare a report.
+702,Negative,3,I'm disappointed with translation. It makes organize notes frustrating.
+703,Positive,4,Using dark mode saved me a lot of time when analyze data.
+704,Negative,2,The latest update broke connectors and now analyze data is difficult.
+705,Negative,3,deep research still has issues. I couldn't properly translate conversations.
+706,Negative,1,I'm disappointed with UI layout. It makes translate conversations frustrating.
+707,Positive,5,The search feature is fantastic. It helped me write better code.
+708,Positive,5,I'm really impressed with documentation. It makes translate conversations much easier.
+709,Positive,5,The thinking mode feature is fantastic. It helped me learn new concepts.
+710,Positive,5,The canvas feature is fantastic. It helped me organize my work efficiently.
+711,Positive,5,The search feature is fantastic. It helped me finish tasks faster.
+712,Positive,5,The improvements in task scheduling are noticeable and very helpful for translate conversations.
+713,Positive,4,I'm really impressed with UI layout. It makes study for exams much easier.
+714,Negative,3,The latest update broke vision tool and now analyze data is difficult.
+715,Negative,1,translation still has issues. I couldn't properly organize notes.
+716,Negative,2,real‑time responses still has issues. I couldn't properly translate conversations.
+717,Negative,1,API integration feels unfinished. I expected better when trying to study for exams.
+718,Positive,5,The improvements in file upload are noticeable and very helpful for analyze data.
+719,Positive,5,The improvements in voice mode are noticeable and very helpful for plan projects.
+720,Negative,2,I'm disappointed with voice mode. It makes finish my homework frustrating.
+721,Positive,4,I'm really impressed with UI layout. It makes organize notes much easier.
+722,Negative,3,Too many bugs in code assistant. It failed when I tried to analyze data.
+723,Positive,4,I'm really impressed with code assistant. It makes study for exams much easier.
+724,Negative,1,thinking mode still has issues. I couldn't properly translate conversations.
+725,Positive,4,Using mobile app saved me a lot of time when study for exams.
+726,Positive,5,Using mobile app saved me a lot of time when study for exams.
+727,Negative,1,I'm disappointed with search. It makes organize notes frustrating.
+728,Negative,1,The latest update broke task scheduling and now organize notes is difficult.
+729,Positive,4,Using connectors saved me a lot of time when plan projects.
+730,Positive,4,Using thinking mode saved me a lot of time when plan projects.
+731,Negative,1,connectors feels unfinished. I expected better when trying to study for exams.
+732,Positive,4,The thinking mode feature is fantastic. It helped me learn new concepts.
+733,Negative,3,I'm disappointed with thinking mode. It makes prepare a report frustrating.
+734,Positive,5,The real‑time responses feature is fantastic. It helped me write better code.
+735,Positive,5,The translation feature is fantastic. It helped me debug issues quickly.
+736,Positive,4,Using mobile app saved me a lot of time when write code.
+737,Negative,1,connectors feels unfinished. I expected better when trying to prepare a report.
+738,Negative,3,translation feels unfinished. I expected better when trying to debug scripts.
+739,Negative,3,I'm disappointed with canvas. It makes translate conversations frustrating.
+740,Positive,5,I'm really impressed with canvas. It makes write code much easier.
+741,Positive,4,The improvements in thinking mode are noticeable and very helpful for plan projects.
+742,Negative,3,The latest update broke thinking mode and now plan projects is difficult.
+743,Negative,2,I'm disappointed with file upload. It makes draft emails frustrating.
+744,Positive,4,The improvements in UI layout are noticeable and very helpful for study for exams.
+745,Positive,4,Using documentation saved me a lot of time when analyze data.
+746,Negative,3,API integration still has issues. I couldn't properly draft emails.
+747,Negative,3,The latest update broke code assistant and now plan projects is difficult.
+748,Negative,2,The latest update broke deep research and now translate conversations is difficult.
+749,Negative,2,UI layout feels unfinished. I expected better when trying to organize notes.
+750,Positive,4,The improvements in translation are noticeable and very helpful for translate conversations.
+751,Positive,5,The task scheduling feature is fantastic. It helped me understand complex topics.
+752,Positive,4,The improvements in connectors are noticeable and very helpful for debug scripts.
+753,Positive,4,documentation works flawlessly. I use it every day for organize notes.
+754,Positive,5,The improvements in deep research are noticeable and very helpful for plan projects.
+755,Negative,2,documentation feels unfinished. I expected better when trying to finish my homework.
+756,Negative,3,I'm disappointed with real‑time responses. It makes prepare a report frustrating.
+757,Positive,5,The improvements in code assistant are noticeable and very helpful for study for exams.
+758,Positive,4,task scheduling works flawlessly. I use it every day for plan projects.
+759,Negative,3,The latest update broke deep research and now study for exams is difficult.
+760,Negative,3,The latest update broke code assistant and now translate conversations is difficult.
+761,Positive,5,The file upload feature is fantastic. It helped me debug issues quickly.
+762,Positive,4,Using documentation saved me a lot of time when debug scripts.
+763,Positive,4,I'm really impressed with canvas. It makes study for exams much easier.
+764,Positive,5,The dark mode feature is fantastic. It helped me debug issues quickly.
+765,Positive,5,Using real‑time responses saved me a lot of time when analyze data.
+766,Negative,1,Too many bugs in mobile app. It failed when I tried to prepare a report.
+767,Negative,2,mobile app feels unfinished. I expected better when trying to draft emails.
+768,Positive,4,Using deep research saved me a lot of time when study for exams.
+769,Negative,3,thinking mode still has issues. I couldn't properly study for exams.
+770,Positive,5,The improvements in search are noticeable and very helpful for finish my homework.
+771,Positive,5,The improvements in dark mode are noticeable and very helpful for organize notes.
+772,Positive,4,I'm really impressed with mobile app. It makes draft emails much easier.
+773,Positive,5,The search feature is fantastic. It helped me organize my work efficiently.
+774,Negative,2,task scheduling still has issues. I couldn't properly plan projects.
+775,Negative,1,connectors feels unfinished. I expected better when trying to plan projects.
+776,Positive,4,I'm really impressed with connectors. It makes organize notes much easier.
+777,Positive,5,connectors works flawlessly. I use it every day for analyze data.
+778,Negative,3,translation feels unfinished. I expected better when trying to prepare a report.
+779,Negative,1,I'm disappointed with connectors. It makes analyze data frustrating.
+780,Negative,3,dark mode feels unfinished. I expected better when trying to analyze data.
+781,Negative,3,Too many bugs in thinking mode. It failed when I tried to write code.
+782,Negative,3,file upload feels unfinished. I expected better when trying to study for exams.
+783,Positive,5,The improvements in connectors are noticeable and very helpful for write code.
+784,Positive,4,The improvements in vision tool are noticeable and very helpful for analyze data.
+785,Positive,4,code assistant works flawlessly. I use it every day for debug scripts.
+786,Negative,2,Too many bugs in real‑time responses. It failed when I tried to organize notes.
+787,Positive,5,Using API integration saved me a lot of time when plan projects.
+788,Negative,1,dark mode feels unfinished. I expected better when trying to organize notes.
+789,Negative,2,I'm disappointed with documentation. It makes organize notes frustrating.
+790,Negative,2,Too many bugs in documentation. It failed when I tried to prepare a report.
+791,Negative,3,file upload still has issues. I couldn't properly write code.
+792,Positive,5,The improvements in voice mode are noticeable and very helpful for write code.
+793,Positive,4,I'm really impressed with UI layout. It makes write code much easier.
+794,Positive,4,voice mode works flawlessly. I use it every day for plan projects.
+795,Negative,3,connectors feels unfinished. I expected better when trying to plan projects.
+796,Positive,4,I'm really impressed with file upload. It makes plan projects much easier.
+797,Negative,2,I'm disappointed with connectors. It makes prepare a report frustrating.
+798,Positive,5,I'm really impressed with voice mode. It makes translate conversations much easier.
+799,Negative,1,I'm disappointed with code assistant. It makes finish my homework frustrating.
+800,Negative,3,Too many bugs in memory. It failed when I tried to translate conversations.
+801,Negative,1,Too many bugs in search. It failed when I tried to plan projects.
+802,Positive,4,Using search saved me a lot of time when study for exams.
+803,Positive,5,voice mode works flawlessly. I use it every day for debug scripts.
+804,Negative,2,real‑time responses feels unfinished. I expected better when trying to write code.
+805,Negative,2,The latest update broke mobile app and now analyze data is difficult.
+806,Positive,5,Using translation saved me a lot of time when organize notes.
+807,Positive,5,Using code assistant saved me a lot of time when prepare a report.
+808,Positive,5,Using code assistant saved me a lot of time when plan projects.
+809,Positive,5,Using dark mode saved me a lot of time when debug scripts.
+810,Positive,5,connectors works flawlessly. I use it every day for translate conversations.
+811,Negative,1,code assistant still has issues. I couldn't properly debug scripts.
+812,Positive,5,Using canvas saved me a lot of time when finish my homework.
+813,Positive,5,memory works flawlessly. I use it every day for finish my homework.
+814,Positive,5,I'm really impressed with connectors. It makes plan projects much easier.
+815,Negative,1,Too many bugs in API integration. It failed when I tried to organize notes.
+816,Negative,2,Too many bugs in memory. It failed when I tried to translate conversations.
+817,Negative,2,Too many bugs in vision tool. It failed when I tried to debug scripts.
+818,Negative,1,I'm disappointed with dark mode. It makes finish my homework frustrating.
+819,Positive,5,connectors works flawlessly. I use it every day for plan projects.
+820,Positive,4,The code assistant feature is fantastic. It helped me organize my work efficiently.
+821,Negative,3,Too many bugs in task scheduling. It failed when I tried to plan projects.
+822,Positive,5,connectors works flawlessly. I use it every day for analyze data.
+823,Negative,3,Too many bugs in search. It failed when I tried to draft emails.
+824,Positive,5,I'm really impressed with translation. It makes write code much easier.
+825,Negative,1,The latest update broke code assistant and now prepare a report is difficult.
+826,Negative,1,file upload still has issues. I couldn't properly draft emails.
+827,Positive,5,I'm really impressed with vision tool. It makes debug scripts much easier.
+828,Negative,2,thinking mode still has issues. I couldn't properly plan projects.
+829,Negative,1,I'm disappointed with documentation. It makes finish my homework frustrating.
+830,Positive,5,The file upload feature is fantastic. It helped me learn new concepts.
+831,Positive,4,The documentation feature is fantastic. It helped me organize my work efficiently.
+832,Negative,1,Too many bugs in translation. It failed when I tried to organize notes.
+833,Positive,5,I'm really impressed with API integration. It makes study for exams much easier.
+834,Negative,2,I'm disappointed with real‑time responses. It makes translate conversations frustrating.
+835,Negative,3,voice mode still has issues. I couldn't properly plan projects.
+836,Positive,5,The real‑time responses feature is fantastic. It helped me learn new concepts.
+837,Negative,3,The latest update broke vision tool and now prepare a report is difficult.
+838,Negative,1,Too many bugs in deep research. It failed when I tried to debug scripts.
+839,Negative,1,The latest update broke vision tool and now prepare a report is difficult.
+840,Negative,3,Too many bugs in dark mode. It failed when I tried to draft emails.
+841,Negative,2,vision tool feels unfinished. I expected better when trying to analyze data.
+842,Negative,1,translation still has issues. I couldn't properly write code.
+843,Positive,4,Using dark mode saved me a lot of time when prepare a report.
+844,Negative,1,The latest update broke UI layout and now study for exams is difficult.
+845,Negative,1,I'm disappointed with voice mode. It makes plan projects frustrating.
+846,Positive,4,The canvas feature is fantastic. It helped me learn new concepts.
+847,Positive,5,The improvements in voice mode are noticeable and very helpful for write code.
+848,Negative,2,code assistant feels unfinished. I expected better when trying to translate conversations.
+849,Negative,3,Too many bugs in voice mode. It failed when I tried to plan projects.
+850,Negative,1,I'm disappointed with thinking mode. It makes draft emails frustrating.
+851,Positive,4,I'm really impressed with documentation. It makes debug scripts much easier.
+852,Positive,4,The search feature is fantastic. It helped me finish tasks faster.
+853,Negative,2,code assistant feels unfinished. I expected better when trying to debug scripts.
+854,Negative,3,file upload still has issues. I couldn't properly study for exams.
+855,Positive,5,Using mobile app saved me a lot of time when plan projects.
+856,Positive,5,The improvements in mobile app are noticeable and very helpful for debug scripts.
+857,Negative,1,vision tool feels unfinished. I expected better when trying to write code.
+858,Positive,5,connectors works flawlessly. I use it every day for organize notes.
+859,Positive,5,I'm really impressed with UI layout. It makes prepare a report much easier.
+860,Positive,4,connectors works flawlessly. I use it every day for translate conversations.
+861,Positive,5,The vision tool feature is fantastic. It helped me organize my work efficiently.
+862,Negative,3,Too many bugs in dark mode. It failed when I tried to draft emails.
+863,Positive,4,deep research works flawlessly. I use it every day for plan projects.
+864,Positive,5,I'm really impressed with documentation. It makes plan projects much easier.
+865,Negative,2,search still has issues. I couldn't properly finish my homework.
+866,Negative,2,Too many bugs in canvas. It failed when I tried to prepare a report.
+867,Positive,4,deep research works flawlessly. I use it every day for draft emails.
+868,Negative,2,API integration still has issues. I couldn't properly draft emails.
+869,Negative,2,Too many bugs in thinking mode. It failed when I tried to finish my homework.
+870,Negative,2,The latest update broke code assistant and now analyze data is difficult.
+871,Negative,1,code assistant feels unfinished. I expected better when trying to draft emails.
+872,Positive,5,documentation works flawlessly. I use it every day for translate conversations.
+873,Negative,1,I'm disappointed with deep research. It makes debug scripts frustrating.
+874,Negative,3,memory feels unfinished. I expected better when trying to write code.
+875,Positive,5,The UI layout feature is fantastic. It helped me debug issues quickly.
+876,Positive,5,thinking mode works flawlessly. I use it every day for study for exams.
+877,Positive,5,Using task scheduling saved me a lot of time when organize notes.
+878,Negative,1,Too many bugs in connectors. It failed when I tried to plan projects.
+879,Positive,4,connectors works flawlessly. I use it every day for organize notes.
+880,Negative,3,deep research still has issues. I couldn't properly analyze data.
+881,Positive,4,The improvements in search are noticeable and very helpful for study for exams.
+882,Positive,4,The file upload feature is fantastic. It helped me understand complex topics.
+883,Negative,2,The latest update broke connectors and now organize notes is difficult.
+884,Negative,2,I'm disappointed with search. It makes draft emails frustrating.
+885,Negative,2,I'm disappointed with UI layout. It makes debug scripts frustrating.
+886,Negative,2,Too many bugs in UI layout. It failed when I tried to debug scripts.
+887,Negative,2,I'm disappointed with voice mode. It makes plan projects frustrating.
+888,Negative,1,Too many bugs in canvas. It failed when I tried to analyze data.
+889,Positive,4,I'm really impressed with task scheduling. It makes debug scripts much easier.
+890,Positive,5,The connectors feature is fantastic. It helped me write better code.
+891,Negative,2,task scheduling still has issues. I couldn't properly study for exams.
+892,Positive,5,Using code assistant saved me a lot of time when prepare a report.
+893,Negative,2,connectors feels unfinished. I expected better when trying to analyze data.
+894,Positive,4,The connectors feature is fantastic. It helped me debug issues quickly.
+895,Negative,2,Too many bugs in file upload. It failed when I tried to analyze data.
+896,Negative,1,mobile app feels unfinished. I expected better when trying to prepare a report.
+897,Positive,4,Using API integration saved me a lot of time when debug scripts.
+898,Positive,4,The improvements in task scheduling are noticeable and very helpful for finish my homework.
+899,Negative,1,documentation feels unfinished. I expected better when trying to analyze data.
+900,Positive,4,Using deep research saved me a lot of time when organize notes.
+901,Positive,5,documentation works flawlessly. I use it every day for write code.
+902,Negative,3,The latest update broke API integration and now draft emails is difficult.
+903,Negative,3,The latest update broke thinking mode and now organize notes is difficult.
+904,Negative,1,I'm disappointed with search. It makes finish my homework frustrating.
+905,Negative,1,The latest update broke file upload and now analyze data is difficult.
+906,Negative,3,Too many bugs in task scheduling. It failed when I tried to analyze data.
+907,Negative,1,task scheduling still has issues. I couldn't properly study for exams.
+908,Positive,4,code assistant works flawlessly. I use it every day for prepare a report.
+909,Negative,1,mobile app still has issues. I couldn't properly write code.
+910,Negative,3,Too many bugs in task scheduling. It failed when I tried to organize notes.
+911,Negative,3,mobile app still has issues. I couldn't properly finish my homework.
+912,Negative,1,I'm disappointed with mobile app. It makes plan projects frustrating.
+913,Negative,3,I'm disappointed with deep research. It makes translate conversations frustrating.
+914,Negative,1,Too many bugs in API integration. It failed when I tried to organize notes.
+915,Positive,5,I'm really impressed with file upload. It makes plan projects much easier.
+916,Positive,5,The improvements in memory are noticeable and very helpful for draft emails.
+917,Negative,2,voice mode still has issues. I couldn't properly draft emails.
+918,Negative,1,dark mode feels unfinished. I expected better when trying to finish my homework.
+919,Negative,3,I'm disappointed with vision tool. It makes analyze data frustrating.
+920,Positive,4,I'm really impressed with translation. It makes plan projects much easier.
+921,Negative,2,Too many bugs in code assistant. It failed when I tried to translate conversations.
+922,Negative,2,Too many bugs in vision tool. It failed when I tried to translate conversations.
+923,Positive,5,The improvements in API integration are noticeable and very helpful for plan projects.
+924,Negative,2,vision tool still has issues. I couldn't properly plan projects.
+925,Negative,2,vision tool still has issues. I couldn't properly organize notes.
+926,Negative,1,Too many bugs in thinking mode. It failed when I tried to draft emails.
+927,Positive,5,I'm really impressed with task scheduling. It makes plan projects much easier.
+928,Negative,3,vision tool still has issues. I couldn't properly draft emails.
+929,Negative,1,The latest update broke dark mode and now plan projects is difficult.
+930,Negative,1,Too many bugs in task scheduling. It failed when I tried to organize notes.
+931,Negative,3,UI layout still has issues. I couldn't properly debug scripts.
+932,Positive,5,The improvements in thinking mode are noticeable and very helpful for study for exams.
+933,Positive,5,real‑time responses works flawlessly. I use it every day for prepare a report.
+934,Positive,5,The translation feature is fantastic. It helped me understand complex topics.
+935,Negative,1,dark mode feels unfinished. I expected better when trying to organize notes.
+936,Negative,1,I'm disappointed with mobile app. It makes translate conversations frustrating.
+937,Positive,5,I'm really impressed with file upload. It makes study for exams much easier.
+938,Positive,5,real‑time responses works flawlessly. I use it every day for finish my homework.
+939,Negative,1,Too many bugs in vision tool. It failed when I tried to prepare a report.
+940,Negative,2,search feels unfinished. I expected better when trying to translate conversations.
+941,Positive,4,The improvements in voice mode are noticeable and very helpful for prepare a report.
+942,Positive,4,The improvements in voice mode are noticeable and very helpful for prepare a report.
+943,Positive,4,I'm really impressed with file upload. It makes write code much easier.
+944,Positive,4,The improvements in UI layout are noticeable and very helpful for prepare a report.
+945,Positive,5,Using dark mode saved me a lot of time when plan projects.
+946,Positive,5,The improvements in vision tool are noticeable and very helpful for prepare a report.
+947,Negative,3,Too many bugs in task scheduling. It failed when I tried to study for exams.
+948,Negative,1,I'm disappointed with deep research. It makes debug scripts frustrating.
+949,Positive,4,The improvements in deep research are noticeable and very helpful for finish my homework.
+950,Negative,3,I'm disappointed with voice mode. It makes organize notes frustrating.
+951,Positive,4,The improvements in memory are noticeable and very helpful for organize notes.
+952,Negative,1,API integration feels unfinished. I expected better when trying to finish my homework.
+953,Positive,4,vision tool works flawlessly. I use it every day for organize notes.
+954,Negative,3,The latest update broke real‑time responses and now organize notes is difficult.
+955,Negative,2,documentation feels unfinished. I expected better when trying to organize notes.
+956,Positive,4,Using file upload saved me a lot of time when translate conversations.
+957,Positive,4,The task scheduling feature is fantastic. It helped me write better code.
+958,Negative,3,search feels unfinished. I expected better when trying to debug scripts.
+959,Negative,3,The latest update broke dark mode and now plan projects is difficult.
+960,Negative,1,The latest update broke documentation and now write code is difficult.
+961,Positive,5,The improvements in voice mode are noticeable and very helpful for analyze data.
+962,Negative,2,I'm disappointed with real‑time responses. It makes plan projects frustrating.
+963,Negative,3,dark mode still has issues. I couldn't properly analyze data.
+964,Positive,5,The improvements in vision tool are noticeable and very helpful for finish my homework.
+965,Positive,5,search works flawlessly. I use it every day for organize notes.
+966,Negative,2,thinking mode feels unfinished. I expected better when trying to study for exams.
+967,Positive,5,voice mode works flawlessly. I use it every day for organize notes.
+968,Negative,1,Too many bugs in file upload. It failed when I tried to analyze data.
+969,Negative,2,Too many bugs in real‑time responses. It failed when I tried to translate conversations.
+970,Negative,2,The latest update broke voice mode and now study for exams is difficult.
+971,Negative,2,The latest update broke API integration and now prepare a report is difficult.
+972,Negative,3,dark mode still has issues. I couldn't properly organize notes.
+973,Negative,1,I'm disappointed with API integration. It makes translate conversations frustrating.
+974,Negative,2,Too many bugs in dark mode. It failed when I tried to analyze data.
+975,Positive,4,I'm really impressed with connectors. It makes study for exams much easier.
+976,Positive,4,UI layout works flawlessly. I use it every day for prepare a report.
+977,Positive,4,Using mobile app saved me a lot of time when translate conversations.
+978,Negative,3,I'm disappointed with UI layout. It makes translate conversations frustrating.
+979,Positive,5,The search feature is fantastic. It helped me understand complex topics.
+980,Negative,3,Too many bugs in documentation. It failed when I tried to organize notes.
+981,Positive,5,I'm really impressed with mobile app. It makes analyze data much easier.
+982,Positive,4,The improvements in canvas are noticeable and very helpful for debug scripts.
+983,Negative,1,The latest update broke connectors and now study for exams is difficult.
+984,Positive,4,Using code assistant saved me a lot of time when debug scripts.
+985,Positive,5,The search feature is fantastic. It helped me write better code.
+986,Negative,2,canvas still has issues. I couldn't properly study for exams.
+987,Positive,4,I'm really impressed with real‑time responses. It makes write code much easier.
+988,Positive,4,The improvements in thinking mode are noticeable and very helpful for debug scripts.
+989,Positive,4,Using file upload saved me a lot of time when analyze data.
+990,Negative,1,Too many bugs in translation. It failed when I tried to prepare a report.
+991,Negative,1,I'm disappointed with code assistant. It makes prepare a report frustrating.
+992,Negative,3,deep research feels unfinished. I expected better when trying to organize notes.
+993,Negative,3,The latest update broke search and now study for exams is difficult.
+994,Positive,4,The UI layout feature is fantastic. It helped me understand complex topics.
+995,Negative,2,Too many bugs in memory. It failed when I tried to study for exams.
+996,Negative,2,I'm disappointed with UI layout. It makes translate conversations frustrating.
+997,Negative,3,mobile app still has issues. I couldn't properly write code.
+998,Negative,1,I'm disappointed with deep research. It makes finish my homework frustrating.
+999,Positive,5,memory works flawlessly. I use it every day for draft emails.
+1000,Positive,4,Using canvas saved me a lot of time when translate conversations.
+1001,Positive,5,The improvements in voice mode are noticeable and very helpful for study for exams.
+1002,Positive,4,I'm really impressed with memory. It makes write code much easier.
+1003,Negative,2,file upload still has issues. I couldn't properly debug scripts.
+1004,Negative,1,The latest update broke dark mode and now finish my homework is difficult.
+1005,Positive,5,Using translation saved me a lot of time when draft emails.
+1006,Positive,4,The improvements in canvas are noticeable and very helpful for debug scripts.
+1007,Negative,1,file upload feels unfinished. I expected better when trying to analyze data.
+1008,Negative,3,voice mode feels unfinished. I expected better when trying to debug scripts.
+1009,Negative,2,canvas feels unfinished. I expected better when trying to organize notes.
+1010,Positive,4,The thinking mode feature is fantastic. It helped me learn new concepts.
+1011,Positive,4,I'm really impressed with dark mode. It makes translate conversations much easier.
+1012,Negative,1,documentation still has issues. I couldn't properly organize notes.
+1013,Negative,1,documentation feels unfinished. I expected better when trying to debug scripts.
+1014,Negative,2,I'm disappointed with translation. It makes organize notes frustrating.
+1015,Positive,5,I'm really impressed with UI layout. It makes write code much easier.
+1016,Negative,2,I'm disappointed with connectors. It makes draft emails frustrating.
+1017,Negative,2,dark mode still has issues. I couldn't properly study for exams.
+1018,Positive,4,The translation feature is fantastic. It helped me write better code.
+1019,Negative,2,connectors feels unfinished. I expected better when trying to prepare a report.
+1020,Negative,1,code assistant feels unfinished. I expected better when trying to organize notes.
+1021,Negative,1,memory feels unfinished. I expected better when trying to write code.
+1022,Negative,2,The latest update broke task scheduling and now analyze data is difficult.
+1023,Positive,5,The deep research feature is fantastic. It helped me finish tasks faster.
+1024,Negative,2,The latest update broke connectors and now plan projects is difficult.
+1025,Positive,5,The improvements in translation are noticeable and very helpful for prepare a report.
+1026,Negative,1,The latest update broke deep research and now analyze data is difficult.
+1027,Negative,1,UI layout still has issues. I couldn't properly finish my homework.
+1028,Negative,1,thinking mode feels unfinished. I expected better when trying to draft emails.
+1029,Positive,4,I'm really impressed with vision tool. It makes finish my homework much easier.
+1030,Negative,3,thinking mode still has issues. I couldn't properly draft emails.
+1031,Positive,5,Using voice mode saved me a lot of time when write code.
+1032,Positive,4,Using documentation saved me a lot of time when organize notes.
+1033,Negative,2,Too many bugs in documentation. It failed when I tried to write code.
+1034,Positive,5,Using translation saved me a lot of time when write code.
+1035,Negative,2,Too many bugs in voice mode. It failed when I tried to analyze data.
+1036,Positive,5,The improvements in voice mode are noticeable and very helpful for study for exams.
+1037,Negative,3,memory feels unfinished. I expected better when trying to draft emails.
+1038,Positive,4,The improvements in documentation are noticeable and very helpful for write code.
+1039,Positive,5,Using search saved me a lot of time when study for exams.
+1040,Positive,4,Using canvas saved me a lot of time when prepare a report.
+1041,Positive,4,Using code assistant saved me a lot of time when study for exams.
+1042,Positive,5,The improvements in mobile app are noticeable and very helpful for study for exams.
+1043,Negative,3,I'm disappointed with code assistant. It makes debug scripts frustrating.
+1044,Negative,3,Too many bugs in connectors. It failed when I tried to analyze data.
+1045,Negative,3,I'm disappointed with deep research. It makes organize notes frustrating.
+1046,Positive,4,I'm really impressed with search. It makes plan projects much easier.
+1047,Positive,5,Using UI layout saved me a lot of time when prepare a report.
+1048,Negative,1,The latest update broke UI layout and now plan projects is difficult.
+1049,Positive,4,The vision tool feature is fantastic. It helped me finish tasks faster.
+1050,Negative,3,Too many bugs in UI layout. It failed when I tried to debug scripts.
